@@ -29,3 +29,5 @@ Here are the descriptions for the relevant columns:
 - `cnt`: count of total rental bikes including both casual and registered
 
 In this project, we will try to predict the total number of bikes people rented in a given hour. We will predict the `cnt` column using all of the other columns, except for `casual` and `registered`. To accomplish this, we will create a few different machine learning models and evaluate their performance.
+
+![Screenshot](https://github.com/RomanSvetkin/Predicting_Bike_Rentals/blob/master/bike_rental_hour.csv)
